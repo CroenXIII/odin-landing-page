@@ -86,7 +86,6 @@ ul {
     font-weight: bold;
     margin-top: 8px;
     border: none;
-
 }
 
 
@@ -145,15 +144,28 @@ ul {
     margin-bottom: 100px;
 }
 
+.sign-up{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    height: 150px;
+    width: 1200px;
+    color: #E5E7EB;
+    border-radius: 10px;
+    margin: 100px auto 100px auto;
+}
 
-
-
-
-
-
-
-
-
+.card-button {
+    background-color: #3882F6;
+    padding: 8px 16px;
+    border-radius: 8px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 8px;
+    border: #E5E7EB solid;
+}
 
 .footer {
     background-color: #1F2937;
